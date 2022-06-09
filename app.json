@@ -24,6 +24,13 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
+      },
+      "package" : "com.gostraight",
+      "config" : {
+        "googleMaps" : {
+          "apiKey" : "AIzaSyA_FpxYMHefUuxjdoH3z_xJAWKrNyhT3O8"
+        },
+      "permissions" : ["ACCESS_COARSE_LOCATION","ACCESS_FINE_LOCATION","FOREGROUND_SERVICES"]
       }
     },
     "web": {
